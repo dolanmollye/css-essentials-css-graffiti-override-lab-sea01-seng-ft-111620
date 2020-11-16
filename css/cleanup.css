@@ -18,6 +18,7 @@ body #wall #tag-2{
   display: none;
 }
 
-body div#wall div.parent div:last-child div#tag-6 { /*225*/
+body #wall div.parent div:last-child #tag-6 { /*225*/
   display: none;
 }
+
