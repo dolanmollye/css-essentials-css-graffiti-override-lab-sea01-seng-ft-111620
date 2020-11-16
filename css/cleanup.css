@@ -18,6 +18,6 @@ body #wall #tag-2{
   display: none;
 }
 
-#wall div.parent+div{
+#wall div.parent+div+div#tag-6{
   display: none;
 }
